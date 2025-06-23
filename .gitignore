@@ -1,4 +1,3 @@
-pert3/db/data/*
-pert4/db/data/*
-pert5/db/data/*
-UTS/db/data/*
+db/data/*
+*/db/data/*
+../db/data/*
